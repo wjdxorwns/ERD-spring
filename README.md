@@ -44,7 +44,7 @@
 **ERD흐름도**
 - https://www.erdcloud.com/d/6yFpqn8swzJoTGeNc
 
-**Flow-Cha**
+**Flow-Chat**
 - https://app.diagrams.net/#G1Egfg9XJJuh3NUUsRDUKSnCzj9CLXcOea#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 **시연영상**
