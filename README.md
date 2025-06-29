@@ -28,6 +28,7 @@
 - **MySQL**: 관계형 데이터베이스 관리 시스템
 - **DBEAVER, HeidiSQL**: 데이터베이스 관리 툴
 - **Apache 9 Version**: 웹 서버
+- - **Spring security**: 비밀번호 암호화
 
 ### API
 - **행정안정부 주소지 API**: 주소 정보를 제공하는 API
