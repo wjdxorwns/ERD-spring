@@ -40,7 +40,7 @@
 
 ### 프로젝트에 대한 PPT
 **PPT**
-- https://www.canva.com/design/DAGkY8AzJTA/fkuR0nnpY0n7Ml2KMmMRSA/edit
+- https://www.canva.com/design/DAGrtZgC9gA/kZlG0tmLjT25CY1GIjHuTA/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
 
 **ERD흐름도**
 - https://www.erdcloud.com/d/6yFpqn8swzJoTGeNc
